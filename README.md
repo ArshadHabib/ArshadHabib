@@ -15,10 +15,12 @@ I am a Software Engineer. Passionate and enthusiast to explore my field. I love 
 
 - **Web Development**
   - ReactJS
+  - NextJS
   - Ruby On Rails
   - MERN Stack
   - ROR APIs
   - Node APIs
+  - Mongo DB
   - Postgress
   - Javascript
   - HTML & CSS
